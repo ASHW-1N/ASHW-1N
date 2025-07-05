@@ -4,7 +4,7 @@
 <h3 align="center"> 🚀 Reinforcement Learning | 🧠 Computer Vision | 🧪 AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78787&center=true&vCenter=true&width=435&lines=Curious+Learner;Reinforcement+Learning+in+Progress...;Computer+Vision+Project+Runner;GenAI+%7C+BioAI+%7C+Prompt+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78787&center=true&vCenter=true&width=435&lines=Curious+Learner; Reinforcement+Learning+in+Progress...;Computer+Vision+Project+Runner;GenAI+%7C+BioAI+%7C+Prompt+Engineer" alt="Typing SVG" />
 </p>
 
 ---
