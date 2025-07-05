@@ -14,7 +14,7 @@
 - 🎓 Master's student in CS (AI & Data Science focus)  
 - 🤖 Building real-world AI systems — RAGs, GenAI, and CV  
 - 📌 Currently exploring **RL with PPO/DQN** and real-world **CV tasks**  
-- 🔬 Research interests: SciML, Neuro-Symbolic AI, GenAI agents  
+- 🔬 Research interests: Reinforcement Learning , Computer Vision  
 - 🧬 Also love working on **bioinformatics + ML models** for drug discovery  
 - 🌱 Learning by doing (and breaking things 🙃)
 
