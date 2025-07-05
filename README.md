@@ -1,4 +1,4 @@
-<!-- Profile README for Ashwin Kumar -->
+<!-- Profile README for Ashwin -->
 
 <h1 align="center">Hi there 👋, I'm Ashwin Kumar</h1>
 <h3 align="center">🚀 Reinforcement Learning | 🧠 Computer Vision | 🧪 AI Explorer</h3>
