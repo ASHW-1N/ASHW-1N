@@ -45,9 +45,10 @@
 ### 📁 Featured Projects
 
 - 🎯 [**AI Finance Assistant**](https://github.com/ASHW-1N/Fin-bot) – Real-time RAG chatbot using LLaMA2, NSE API, GenAI  
-- 🛠️ `Smart Anomaly Detection` (Coming Soon) – Sensor + thermal fusion for industrial electronics  
-- 🧠 `RL Playground` – PPO, DQN implementations from scratch w/ experiment tracking  
-- 📷 `PanNuke + SAM` – Abnormality segmentation in histopathology using Segment Anything Model
+- - 🏥 [**MedAssist – Medical Chatbot**](https://github.com/ASHW-1N/MedAssist_medical_assistant_llama2.git)  
+  LLM-based chatbot for health-related queries using LangChain + LLaMA 2.  
+  `LangChain` | `Chainlit` | `LLaMA 2  
+- 🧠 `RL Playground` – PPO, DQN implementations from scratch w/ experiment tracking
 
 ---
 
@@ -64,7 +65,6 @@
 
 - 📧 **ashwinqs2020@gmail.com**  
 - 🌐 [**LinkedIn**](https://www.linkedin.com/in/ashwin-kumar-9b09a9214/)  
-- 🧠 [**Blog (coming soon)**]
 
 ---
 
